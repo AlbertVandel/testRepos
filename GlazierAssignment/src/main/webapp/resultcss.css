@@ -1,0 +1,25 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 25-11-2017, 19:25:04
+    Author     : Albert Scheel Vandel
+*/
+
+body{
+    background-color: lightblue;
+    background-image: url("img/manywindows.jpg");
+}
+h1{
+    margin: auto;
+    text-align: center;
+    background-color: lightsteelblue;    
+}
+div{
+    margin: auto;
+    background-color: whitesmoke;
+    width: 40%;
+    font-size: 30px;
+}
